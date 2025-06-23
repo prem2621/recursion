@@ -1,0 +1,87 @@
+📌 1. Basic Recursion (Understanding the Concept)
+These are fundamental problems to build your recursive thinking.
+
+✅ Print numbers using recursion
+
+Print numbers from 1 to N
+
+Print numbers from N to 1
+
+✅ Sum of first N numbers
+✅ Factorial of N
+✅ Nth Fibonacci number
+✅ Power of a number (X^N)
+✅ Reverse an array using recursion
+✅ Check if a string is palindrome
+
+
+
+
+
+
+
+📌 2. Intermediate Recursion Problems
+These problems are slightly more complex but still focus on recursion.
+
+✅ Find GCD (Greatest Common Divisor) using recursion
+✅ Count digits in a number using recursion
+✅ Reverse a number using recursion
+✅ Tower of Hanoi
+✅ Subset sum problem
+✅ Check if an array is sorted
+✅ Binary Search using recursion
+✅ Merge Sort using recursion
+✅ Quick Sort using recursion
+
+
+
+📌 3. Backtracking (Advanced Recursion Technique)
+Backtracking is used when you need to explore multiple options.
+
+✅ Generate all subsets of an array
+✅ Generate all subsequences of a string
+✅ Generate all permutations of a string/array
+✅ N-Queens Problem
+✅ Sudoku Solver
+✅ Rat in a Maze Problem
+✅ Word Search (Find a word in a 2D grid)
+✅ Knight's Tour Problem
+
+
+
+
+
+📌 4. Recursion on Subsequences
+These problems help understand how to generate subsequences and subsets.
+
+✅ Print all subsequences of an array
+✅ Count the number of subsequences with sum K
+✅ Find all subsets of a given set
+✅ Find all subsets of an array that sum to a given value
+✅ Partition array into two subsets with equal sum
+
+
+
+
+
+📌 5. Recursion on Permutations
+Here, you’ll generate different permutations of arrays/strings.
+
+✅ Generate all permutations of a string/array
+✅ Find all unique permutations (avoid duplicates)
+✅ Lexicographically next greater permutation
+✅ K-th permutation sequence
+✅ Generate all valid parentheses combinations
+
+
+
+
+
+📌 6. Miscellaneous Recursion Problems
+These are real-world recursion-based problems.
+
+✅ Josephus Problem (Find the survivor in a circular elimination game)
+✅ Print all paths from top-left to bottom-right in a grid
+✅ Find all palindromic partitions of a string
+✅ Word Break Problem
+✅ Generate Gray Code sequences
